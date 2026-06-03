@@ -1,0 +1,6 @@
+{
+  "name": "Filippo Bassa Marea Kenya",
+  "description": "Sito ufficiale per Safari in Savana ed Escursioni Marine a Watamu con Filippo Bassa Marea. Include un pianificatore di viaggio personalizzato con AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
